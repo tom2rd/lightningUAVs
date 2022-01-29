@@ -18,6 +18,6 @@
   
   Bluetooth pairing  
 
-  https://docs.m5stack.com/en/atom/atomicgps
-  https://docs.m5stack.com/en/unit/envIII
+  https://docs.m5stack.com/en/atom/atomicgps  
+  https://docs.m5stack.com/en/unit/envIII  
   
